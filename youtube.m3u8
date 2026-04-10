@@ -1,19 +1,4 @@
 #EXTM3U
 #EXTINF:-1, TN
 https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#TN.yt
-#EXTINF:-1, C5N
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#C5N.yt
-#EXTINF:-1, Crónica
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#Cronica.yt
-#EXTINF:-1, Telefe
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#Telefe.yt
-#EXTINF:-1, Canal 7
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#Canal7.yt
-#EXTINF:-1, A24
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#A24.yt
-#EXTINF:-1, La Nación +
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#LNMas.yt
-#EXTINF:-1, Canal 13
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#Canal13.yt
-#EXTINF:-1, Canal 9
-https://raw.githubusercontent.com/danilo111981/YouTubeToM3U8/main/youtube.m3u8#Canal9.yt
+
